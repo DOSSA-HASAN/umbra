@@ -4,7 +4,7 @@ Umbra is an Android utility application built with Flutter that displays floatin
 
 ## Download
 
-**[Download Umbra for Android](https://github.com/DOSSA-HASAN/umbra/releases/latest/download/umbra.apk)**
+**[Download Umbra for Android](https://github.com/DOSSA-HASAN/umbra/releases/download/v1.0.0/umbra.apk)**
 
 Download the latest APK and install it on your Android device. On first launch, grant Umbra the required **Display over other apps** permission to create floating overlays.
 
