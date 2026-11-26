@@ -2,6 +2,14 @@
 
 Umbra is an Android utility application built with Flutter that displays floating overlays above other applications. It is designed to help reduce prolonged exposure to static screen elements on OLED displays by allowing users to position and resize overlays.
 
+## Download
+
+**[Download Umbra for Android](https://github.com/DOSSA-HASAN/umbra/releases/latest/download/umbra.apk)**
+
+Download the latest APK and install it on your Android device. On first launch, grant Umbra the required **Display over other apps** permission to create floating overlays.
+
+[View all releases](https://github.com/DOSSA-HASAN/umbra/releases)
+
 ## Features
 
 - **Floating overlays** – Display customizable floating rectangles above other applications.
